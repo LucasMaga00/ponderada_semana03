@@ -53,5 +53,5 @@ Abaixo, segue a nota que dei para o Jonathan
 | Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | 3              | -                            | -                        | Montagem clara e organizada |
 | Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | 3              | -                          | -                        | Tempos precisos conforme especificado |
 | Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3              | -                          | -                        | Código bem estruturado e documentado |
-| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | 1              | -                         | -                        | Não implementado |
+| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | 1              | -                         | -                        | Implementou sistema de ponteiros |
 |  |                                                             |  | |**Pontuação Total: 10.0**|
